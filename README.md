@@ -1,0 +1,1 @@
+Projeto do DoG, utilizando C++ e SDL para criar um jogo de campo minado.
